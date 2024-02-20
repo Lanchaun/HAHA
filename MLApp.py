@@ -1,3 +1,4 @@
+#!C:/Users/LXY/AppData/Local/Programs/Python/Python312/pythonProject1/.venv/Scripts/python.exe
 import streamlit as st
 import numpy as np
 import pandas as pd
