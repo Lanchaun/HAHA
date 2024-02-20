@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
+import LGBMClassifier as lgb
 import sys
 
 st.sidebar.title('Variables Input')
