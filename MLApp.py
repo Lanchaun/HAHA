@@ -1,8 +1,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import pickle
-from lightgbm import LGBMClassifier
 import lightgbm as lgb
 import sys
 
